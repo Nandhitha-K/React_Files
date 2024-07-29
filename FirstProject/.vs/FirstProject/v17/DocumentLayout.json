@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\React\\FirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE055C52-5A61-48DE-A6C3-5A5C67396C03}|DemoWebApi\\DemoWebApi.csproj|d:\\react\\firstproject\\demowebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE055C52-5A61-48DE-A6C3-5A5C67396C03}|DemoWebApi\\DemoWebApi.csproj|solutionrelative:demowebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DemoDB/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DemoDB/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DemoDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|d:\\react\\firstproject\\demoproject\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|d:\\react\\firstproject\\demoproject\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|d:\\react\\firstproject\\demoproject\\model\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\model\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|d:\\react\\firstproject\\demoproject\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|d:\\react\\firstproject\\demoproject\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|d:\\react\\firstproject\\demoproject\\migrations\\20240709092511_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\migrations\\20240709092511_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE055C52-5A61-48DE-A6C3-5A5C67396C03}|DemoWebApi\\DemoWebApi.csproj|d:\\react\\firstproject\\demowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE055C52-5A61-48DE-A6C3-5A5C67396C03}|DemoWebApi\\DemoWebApi.csproj|solutionrelative:demowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|d:\\react\\firstproject\\demoproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|d:\\react\\firstproject\\demoproject\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B53E841-9BE8-4B1E-9713-2FB7A5AB061B}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE055C52-5A61-48DE-A6C3-5A5C67396C03}|DemoWebApi\\DemoWebApi.csproj|d:\\react\\firstproject\\demowebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE055C52-5A61-48DE-A6C3-5A5C67396C03}|DemoWebApi\\DemoWebApi.csproj|solutionrelative:demowebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoWebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "DemoWebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoWebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "DemoWebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:48:46.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "DemoWebApi\\Program.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoWebApi\\Program.cs",
+              "RelativeToolTip": "DemoWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:32:08.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoProject\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoProject\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "DemoProject\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:43:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoProject\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoProject\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "DemoProject\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:36:34.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoProject\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Repository\\IOrderRepository.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoProject\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "DemoProject\\Repository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:26:35.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Orders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DemoDB/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "dbo.Orders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-09T09:25:49.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240709092511_Order.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoProject\\Migrations\\20240709092511_Order.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Migrations\\20240709092511_Order.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoProject\\Migrations\\20240709092511_Order.cs",
+              "RelativeToolTip": "DemoProject\\Migrations\\20240709092511_Order.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:25:11.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DemoDbContext.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoProject\\Model\\DemoDbContext.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Model\\DemoDbContext.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoProject\\Model\\DemoDbContext.cs",
+              "RelativeToolTip": "DemoProject\\Model\\DemoDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:23:31.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoProject\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Model\\Order.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoProject\\Model\\Order.cs",
+              "RelativeToolTip": "DemoProject\\Model\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:21:56.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DemoDB/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-08T07:08:10.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DemoDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-08T06:18:40.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoProject\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoProject\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "DemoProject\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:59:18.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DemoWebApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DemoWebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:55:36.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\React\\FirstProject\\DemoProject\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\React\\FirstProject\\DemoProject\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "DemoProject\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwD8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:49:47.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
